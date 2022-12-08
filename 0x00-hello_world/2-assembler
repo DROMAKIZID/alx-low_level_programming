@@ -1,2 +1,2 @@
 #!/bin/bush
-gcc-S
+gc-S $CFILE
