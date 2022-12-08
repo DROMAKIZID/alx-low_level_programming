@@ -1,1 +1,1 @@
-thhis is my first repository on C programming
+This is my repostory on C languege
