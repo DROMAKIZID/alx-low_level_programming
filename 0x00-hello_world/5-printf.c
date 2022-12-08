@@ -3,21 +3,14 @@
 
 
 /**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
+ 
+  * main - Entry point
+  *
+  * Return: Always 0 (Success)
+  */
 int main(void)
 
 {
-
-		printf("my naame is patoo 2020\n");
-
+		printf("with programming you enjoy yourself,\n")
 			return (0);
-
 }
